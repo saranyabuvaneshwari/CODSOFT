@@ -1,2 +1,2 @@
 my first task in codsoft-mobile  app signup flow
-https://www.figma.com/proto/fLW3S6RdsamBzkv20KnqZZ/codesoft-task1?node-id=2012-5&starting-point-node-id=2012%3A5&t=A6HimrdxCdF4g5kW-1
+https://github.com/saranyabuvaneshwari/CODSOFT/assets/149236527/dc3a31ad-296f-414e-8cc4-9b3695e55561
